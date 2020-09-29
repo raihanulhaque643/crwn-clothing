@@ -66,4 +66,9 @@
       }
     }
   }
-  
+
+  @media (max-width: 800px) {
+    .menu-item {
+      min-width: 100%;
+    }
+  }
