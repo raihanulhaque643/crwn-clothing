@@ -70,3 +70,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 Login Creds:
 jason@gmail.com
 12341234
+
+Hosted: https://crwn-ecommerce-raihanul.herokuapp.com/
